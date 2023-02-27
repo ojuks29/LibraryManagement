@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a new line
+=======
+This is done in repo.
+>>>>>>> 4215d15f8e5a23cb8f49e86adaedd5ff1ec757bf
